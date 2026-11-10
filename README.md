@@ -1,6 +1,6 @@
 # Inverse mass cascade in dark matter flow and effects on halo deformation, energy, size, and density profiles
 
-Xu Z., 2026, *Inverse mass cascade in dark matter flow and effects on halo deformation, energy, size, and density profiles*, Zenodo [doi:10.5281/zenodo.24095562](https://doi.org/10.5281/zenodo.24095562). The preprint is hosted on arXiv as [arXiv:2109.12244](https://arxiv.org/abs/2109.12244); no journal version exists.
+Xu Z., 2026, *Inverse mass cascade in dark matter flow and effects on halo deformation, energy, size, and density profiles*, Zenodo [doi:10.5281/zenodo.24095562](https://doi.org/10.5281/zenodo.24095562). The preprint is hosted on arXiv as [arXiv:2109.12244](https://arxiv.org/abs/2109.12244); 
 
 ## Major findings
 
