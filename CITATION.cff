@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the article."
+title: "Inverse mass cascade in dark matter flow and effects on halo deformation, energy, size, and density profiles"
+type: software
+authors:
+  - family-names: Xu
+    given-names: Zhijie
+    affiliation: "Pacific Northwest National Laboratory"
+    orcid: "https://orcid.org/0000-0003-0459-4531"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24095562"
+    description: "Zenodo archive of the manuscript and data files"
+license: CC-BY-4.0
+version: "1.0"
+date-released: "2026-11-09"
+keywords:
+  - "dark matter"
+  - "halo density profile"
+  - "inverse mass cascade"
+  - "Einasto profile"
+  - "generalized gamma profile"
+  - "halo growth"
+  - "N-body simulation"
+  - "Jeans equation"
